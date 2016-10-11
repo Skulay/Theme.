@@ -1,0 +1,14 @@
+[ 
+    { 
+        "author" : "Sku", 
+        "name" : "marron", 
+        "keyWords" : "test,marron", 
+        "version" : "1.0.1", 
+        "dofusVersion" : "2.37", 
+        "description" : "test", 
+        "url" : "https://www.fichier-zip.com/2016/10/10/thema/", 
+        "previewUrl" : "http://mywebsite.com/preview.jpg", 
+        "creationDate" : "11/10/2016", 
+        "modificationDate" : "11/10/2016" 
+    } 
+]
